@@ -4,6 +4,7 @@ El objetivo de este laboratorio es evaluar la resiliencia y el comportamiento de
 
 ## 2 | Topología de la red
 La topología representa una red de laboratorio estructurada bajo una arquitectura jerárquica simple, donde todos los dispositivos internos coexisten en la VLAN 89. La red cuenta con servicios automáticos de asignación de direccionamiento IP (DHCP) administrados por un enrutador dedicado, y salida a redes externas (Internet) a través de un enrutador de borde con traducción de direcciones.
+![image_alt](https://github.com/labcruzmesson-cyber/Attack-01---CDP-DoS/blob/ba8ca3d9d065fc90f76bdcf317c5a8342a4e5253/Topologia.png)
 ### A. Hardware y Dispositivos
 La infraestructura física y los nodos que componen la topología se distribuyen según sus roles funcionales en la red:
 * **Dispositivos de Enrutamiento (Capa 3):**
